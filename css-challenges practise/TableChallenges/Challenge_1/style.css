@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+* {
+  font-family: "poppins", "verdana";
+  box-sizing: border-box;
+  color: white;
+}
+body {
+  background-image: url("https://images.unsplash.com/photo-1502239608882-93b729c6af43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRhcmslMjBsZWFmfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+}
+
+.container {
+  position: absolute;
+  left: 300px;
+}
+h1 {
+  position: relative;
+  left: 300px;
+  justify-content: center;
+}
+
+h3 {
+  position: relative;
+  left: 300px;
+  justify-content: center;
+}
+[type="text"] {
+  border-radius: 10px;
+}
+
+[type="email"] {
+  border-radius: 10px;
+}
+[type="number"] {
+  border-radius: 10px;
+}
+
+#card {
+  color: black;
+  border-radius: 10px;
+}
+
+option {
+  color: black;
+  border-radius: 10px;
+}
+
+[type="textarea"] {
+  border-radius: 10px;
+}
+
+[type="submit"] {
+  padding: 5px 150px 5px 150px;
+  border-radius: 10px;
+  background-color: rgb(96, 158, 160);
+}
+b {
+  color: black;
+  font-weight: bold;
+}

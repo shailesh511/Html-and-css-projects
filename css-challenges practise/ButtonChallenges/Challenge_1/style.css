@@ -1,0 +1,26 @@
+.btn {
+  position: absolute;
+  right: 50%;
+  top: 50%;
+  text-decoration-color: white;
+  background-color: rgb(64, 113, 202);
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  border: white;
+  color: white;
+}
+.badge {
+  position: absolute;
+  right: 48.5%;
+  top: 48%;
+  padding-left: 8px;
+  padding-top: 5px;
+  padding-right: 8px;
+  padding-bottom: 5px;
+  color: white;
+  border-radius: 50%;
+  background: #2e2c2c;
+  display: flex;
+}

@@ -1,0 +1,65 @@
+.heading {
+  position: absolute;
+  top: 250px;
+  left: 150px;
+}
+
+.content {
+  position: absolute;
+  top: 310px;
+  left: 200px;
+}
+
+.social-media {
+  position: absolute;
+  left: 250px;
+  top: 0px;
+}
+.links {
+  position: absolute;
+  left: 450px;
+  top: 0px;
+}
+.details {
+  position: absolute;
+  left: 600px;
+  top: 0px;
+}
+footer {
+  position: absolute;
+  top: 600px;
+  left: 550px;
+}
+p {
+  width: 100px;
+  white-space: nowrap;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+a:active {
+  text-decoration: none;
+  color: black;
+}
+.footer {
+  top: 100px;
+
+  padding: 290px;
+  border-bottom: 0.5px solid grey;
+}
+hr {
+  display: none;
+}

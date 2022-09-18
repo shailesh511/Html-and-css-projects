@@ -1,0 +1,32 @@
+nav {
+  position: absolute;
+  top: 200px;
+  left: 400px;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
+
+/* Here order of a tag styling is important */
+
+a:link {
+  text-decoration: none; /*it will remove the underline*/
+}
+
+a:visited {
+  text-decoration: royalblue;
+}
+a:hover {
+  color: skyblue;
+}
+a:active {
+  text-decoration: none;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(119, 115, 115);
+  padding: 5px 10px 5px 10px;
+  font-weight: bold;
+}

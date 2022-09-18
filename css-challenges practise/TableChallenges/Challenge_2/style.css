@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+hr {
+  height: 2px;
+  background-color: grey;
+}
+body {
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+}
+caption {
+  position: absolute;
+  left: 120px;
+  top: 400px;
+}
+#myTitle {
+  background-color: rgb(127, 255, 212);
+  border: 0.5px solid white;
+}
+th {
+  background-color: rgb(127, 255, 212);
+  border: 0.5px solid white;
+  color: red;
+}
+td {
+  background-color: rgb(127, 255, 212);
+  border: 0.5px solid white;
+}

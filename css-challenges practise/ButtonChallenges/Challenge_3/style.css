@@ -1,0 +1,13 @@
+.btn-wrapper {
+  position: relative;
+  top: 250px;
+  left: 250px;
+}
+
+.btn {
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  background-color: rgb(63, 63, 214);
+  color: white;
+  border-color: white;
+}

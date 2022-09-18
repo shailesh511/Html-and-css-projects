@@ -1,0 +1,156 @@
+[alt="brand-logo"]{
+  position: absolute ;
+  left:150px;
+  top: 30px;
+  width: 120px;
+  height: 50px;
+}
+.list-item{
+    position: relative;
+    display: inline ;
+    padding: 100px 15px 0px 15px;
+    left:500px;
+    font-family: "CoreDodamW01-Regular";
+    font-weight: bold;
+    font-size: xx-large;
+   }
+li:first-child{
+  border-bottom: 1px solid black;
+  box-shadow: 0 1px #FFFFFF;
+  line-height: 2.3;
+}
+.button-group{
+  position: absolute;
+  right:100px;
+  top:30px;
+ 
+}
+.search-icon{
+  position: absolute;
+  top:10px;
+  width: 10px;
+  height: 10px;
+}
+.nav-button{
+  position: relative;
+  top:10px;
+  left: 45px;
+  padding: 10px 50px;
+  border-radius: 10px;
+  border: 2.5px solid black;
+
+}
+.square{
+  position: relative;
+  top:200px;
+  left:200px;
+
+  /* z-index:1; */
+}
+
+[alt="square-pattern" ]{
+  width: 350px;
+  height: 300px;
+}
+
+[alt="person-hero-iamge"]{
+  position: absolute;
+  top: 150px;
+  left:150px;
+  width: 350px;
+  height:400px;
+} 
+.star{
+  position: absolute;
+  top:140px;
+  right: 80px;
+}
+[alt="start-pattern"]{
+  width: 40px;
+  height: 40px;
+}
+.globe{
+  position: absolute;
+  top:120px;
+  right: 460px;
+}
+[alt="globe-pattern"]{
+  width: 40px;
+  height: 40px;
+}
+.hero-heading{
+  position: absolute;
+  top: 150px;
+  left:650px;
+  font-size: 80px;
+  font-family: "CoreDodamW01-Regular";
+}
+.hero-description{
+  position: absolute;
+  top: 320px;
+  left:600px;
+  text-align-last: center;
+}
+.button-email{
+  position: absolute;
+  top: 430px;
+  left:750px;
+  padding: 0px 30px;
+  border-radius: 10px;
+  font-family: "CoreDodamW01-Regular";
+  font-size:30px;
+  color:rgb(80, 79, 79);
+  font-weight: bold;
+}
+.button-join{
+  position: absolute;
+  top: 430px;
+  left:980px;
+  border-radius: 10px;
+  font-family: "CoreDodamW01-Regular";
+  font-size:30px;
+  color:rgb(250, 245, 245);
+  background-color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.contact-heading{
+  position: absolute;
+  top: 530px;
+  left:850px;
+  font-family: "CoreDodamW01-Regular";
+  font-size:30px;
+  color:rgb(80, 79, 79);
+  font-weight: bold;
+}
+[alt="facebook-icon"]{
+  position: absolute;
+  top: 600px;
+  left:810px;
+  width: 30px;
+  height: 30px;
+}
+[alt="messenger-icon"]{
+  position: absolute;
+  top: 600px;
+  left:860px;
+  width: 30px;
+  height: 30px;
+}
+[alt="instagram-icon"]{
+  position: absolute;
+  top: 600px;
+  left:910px;
+  width: 30px;
+  height: 30px;
+}
+[alt="whatsapp-icon"]{
+  position: absolute;
+  top: 600px;
+  left:960px;
+  width: 30px;
+  height: 30px;
+}
+
+

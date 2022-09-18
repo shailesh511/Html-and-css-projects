@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+}
+
+.div__btn {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.btn {
+  color: azure;
+  padding: 10px 15px 10px 15px;
+  border: 1px solid rgb(205, 207, 48);
+  border-radius: 5px;
+  box-shadow: -1px 1px 5px 2.5px yellow;
+}
