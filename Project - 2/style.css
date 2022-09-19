@@ -34,37 +34,41 @@
   padding: 0px 25px 0px 25px;
   left:500px;
   top: 30px;
-  color:yellow;
+  color:rgb(220,170,55);
 }
 
 .button-small{
   position: absolute;
   display: inline;  
-  padding: 5px 15px 5px 15px;
-  left:1200px;
-  top: 30px;
+  padding: 10px 25px;
+  border: none;
+  left:1100px;
+  top: 20px;
   color:white;
-  background-color:rgb(192, 32, 32);
+  font-weight: bolder;
+  background-color:rgb(255,80,95);
 }
 /* ------------------------------ */
 /* ---------- HERO ------------ */
 /* ------------------------------ */
 .hero-heading{
   position: absolute;
-  left:400px;
-  top:150px;
-  color:rgb(240, 232, 124);
-  font-weight: bolder;
-  font-size: 50px;
+  left:300px;
+  top:100px;
+  color:rgb(255,194,51);
+  font-size: 80px;
+  text-align: center;
+  width: 830px;
 }
 .button-large{
   position: absolute;
-  left:700px;
-  top:400px;
+  left:600px;
+  top:450px;
   color:white;
   padding: 10px 25px 10px 25px;
   font-size: 30px;
-  background-color: red;
+  background-color: rgb(255,80,95);
+  border: none;
 }
 
 .bottom{
