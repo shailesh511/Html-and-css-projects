@@ -1,0 +1,72 @@
+body{
+    background-image: url(./assets/bg.png);
+}
+.logo{
+    position: absolute ;
+    left:100px;
+    width: 100px;
+    height: 40px;
+}
+
+.list-item{
+    position: relative ;
+    display: inline;
+    left: 200px;
+    color: white;
+    padding:10px 15px;
+    font-family: 'Poppins', sans-serif;
+}
+li:first-child{
+    padding-left: 50px;
+    border-left: 2px solid white;
+}
+.navbar{
+    padding: 5px 5px;
+    width: 100%;
+    background-color: black;
+}
+.button-small{
+    position: absolute ;
+    left:1100px;
+    top: 25px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: rgb(186,12,197);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.hero-heading{
+    position: absolute ;
+    left:300px;
+    top: 150px;
+    color: white;
+    font-size: 60px;
+    width: 800px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-description{
+    position: absolute ;
+    left:300px;
+    top: 370px;
+    color: white;
+    font-size: 20px;
+    width: 800px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button-large
+{
+    position: absolute ;
+    left:500px;
+    top: 480px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: rgb(186,12,197);
+    color: white;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
