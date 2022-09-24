@@ -1,0 +1,79 @@
+[alt="logo" ]{
+position: absolute ;
+left:100px;
+top: 30px;
+width: 120px;
+height: 50px;
+}
+.nav-item{
+    position: relative;
+    display: inline;
+    top:40px;
+    left: 550px;
+    padding-right: 25px;
+    font-family: 'Poppins', sans-serif;
+    z-index: 2;
+}
+.signin-btn{
+    position: absolute;
+    top:40px;
+    left: 1150px;
+    border-radius: 20px;
+    padding: 5px 15px;
+    font-size: 12px;
+    color:white;
+    border:none;
+    background-image: linear-gradient(to right, rgb(73, 36, 133),rgb(255,138,220));
+
+}
+.left-section>h1{
+    position: absolute ;
+    top: 150px;
+    left: 100px;
+    font-size: 60px;
+    color:rgb(62,71,148);
+    font-family: 'Poppins', sans-serif;
+}
+.left-section>h4{
+    position: absolute ;
+    top: 270px;
+    left: 100px;
+    width: 300px;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(96,99,133)
+}
+.learn-more-btn{
+    position: absolute ;
+    top: 400px;
+    left: 100px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: none;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right, rgb(73, 36, 133),rgb(255,138,220));
+
+}
+
+[alt="intro-img"]{
+    position: absolute;
+    top:1px;
+    left: 600px;
+    width: 760px;
+    height: 550px;
+    padding-top: 100px;
+    background: url(../images/backcover.svg);
+    border-bottom-left-radius: 50px;
+    z-index: 1;
+}
+.vector-img{
+    position: absolute;
+    top:400px;
+    left: 600px;    
+}
+.vector-dot{
+    position: absolute;
+    top:412px;
+    left: 655px;   
+}
